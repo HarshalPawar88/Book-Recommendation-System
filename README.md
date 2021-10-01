@@ -1,5 +1,5 @@
 # Book-Recommendation-System
-### In this project we use three different datasets to come up with a book recommendation system for different users based on how they and others have rated previously purchased books.
+## In this project we use three different datasets to come up with a book recommendation system for different users based on how they and others have rated previously purchased books.
 #### Tags: Recommendation Systems, Data Science, Machine Learning, Collaborative Filtering
 
 #### Co-created by [Harsh Mudgil](https://github.com/harshmudgil97), [Harshal Pawar](https://github.com/HarshalPawar88), [Saubhagya Verma](https://github.com/saubhagyav) and [Tawheed Yousuf](https://github.com/Tawheed-DS)
