@@ -46,3 +46,14 @@ Our dataset lacked any description for the books that there in the data. Our nex
 <b>Creating a dummy web page for generating recommendations:</b>
 
 Finally we also developed and tested a web page which could take our models in the backend and produce recommendations to a given input item.
+<b>Conclusion of the Project:-</b> 
+It is very important to deal with implicit and explicit user ratings, separately. 
+For dealing with explicit ratings, we can build simple models based on ratings, and we can also use certain comprehensive models based on Collaborative Filtering approach. 
+For dealing with implicit ratings, we can build KNN based models , and we can also use content based models, which utilize the similarity of different contents, to make recommendations. 
+It is crucial to be precise about user preferences, otherwise repetitive recommendations can cause nuisance to the user.
+
+## <b>Conclusion of the Project</b>
+It is very important to deal with implicit and explicit user ratings, separately. 
+For dealing with explicit ratings, we can build simple models based on ratings, and we can also use certain comprehensive models based on Collaborative Filtering approach. 
+For dealing with implicit ratings, we can build KNN based models , and we can also use content based models, which utilize the similarity of different contents, to make recommendations. 
+It is crucial to be precise about user preferences, otherwise repetitive recommendations can cause nuisance to the user.
